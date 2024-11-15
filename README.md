@@ -1,3 +1,3 @@
 # stuti
-This is my first Git repository\n
-Author- STUTI
+This is my first Git repository.
+Author- STUTI    
